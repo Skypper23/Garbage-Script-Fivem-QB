@@ -7,12 +7,12 @@ version '1.0'
 
 shared_scripts {
     '@qb-core/shared/locale.lua',
-    'config.lua',
-    'criarBlip.lua'
+    'config.lua'
 }
 
 client_script {
-    'client.lua'
+    'client.lua',
+    'criarBlip.lua'
 }
 
 server_script {
