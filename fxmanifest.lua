@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game { 'gta5' }
 
 author 'Mictih'
-description 'My Script'
+description 'Garbage Script by:Mictih'
 version '1.0'
 
 shared_scripts {
